@@ -89,7 +89,26 @@ hr {
 
 .sculpture {
   width: 24%;
+  margin: 3% auto;
+
 }
+
+
+
+.a-sculpture {
+  position: absolute;
+  clear: both;
+  top: 95%;
+  left: 36%;
+
+
+}
+
+.a-sculpture:hover{
+  display: block;
+}
+
+
 
 .top-cloud {
   position: absolute;
